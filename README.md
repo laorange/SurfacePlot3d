@@ -32,8 +32,8 @@
 
 ### 1. 拉取项目代码
 
-+ git clone
-+ download zip
++ `git clone https://github.com/laorange/SurfacePlot3d.git`
++ [Download ZIP](https://github.com/laorange/SurfacePlot3d/archive/refs/heads/master.zip)
 
 ### 2. 安装依赖
 
